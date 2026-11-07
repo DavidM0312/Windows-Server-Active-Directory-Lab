@@ -25,7 +25,7 @@ My goal is to transition into a **Systems Administrator** role, supporting secur
 
 | Category | Technologies & Skills |
 |---|---|
-| Operating Systems | Windows Server 2019, Windows 10/11 |
+| Operating Systems | Windows Server 2019, Windows Server 2025, Windows 10/11 |
 | Identity Management | Active Directory, Organizational Units, User Accounts, Security Groups |
 | Networking | TCP/IP, DNS, DHCP, VPN, Network Troubleshooting |
 | Infrastructure | VirtualBox, Virtual Machines, Domain Controllers |
@@ -46,7 +46,7 @@ I maintain a virtualized Windows infrastructure environment to strengthen my pra
 | Component | Configuration |
 |---|---|
 | Hypervisor | Oracle VirtualBox |
-| Server OS | Windows Server 2019 |
+| Server OS | Windows Server 2025 |
 | Domain Controller | DC01 |
 | Active Directory Domain | sysadminlab.local |
 | Server IP Address | 10.0.2.15 |
