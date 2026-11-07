@@ -9,7 +9,7 @@ I'm an IT professional with hands-on experience in technical support, endpoint t
 
 I'm actively developing my systems administration skills through practical home lab projects involving Windows Server, Active Directory, DNS, Group Policy, identity management, and enterprise-style network environments.
 
-My goal is to transition into a **Junior Systems Administrator** role, supporting secure, reliable, and scalable IT infrastructure.
+My goal is to transition into a **Systems Administrator** role, supporting secure, reliable, and scalable IT infrastructure.
 
 ---
 
