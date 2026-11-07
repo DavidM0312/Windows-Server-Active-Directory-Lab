@@ -110,31 +110,6 @@ Created and managed organizational units, employee accounts, and security groups
 
 ---
 
-### Project 03 — Windows 11 Domain Integration
-
-**Technologies:** Windows 11, Windows Server 2019, DNS, VirtualBox
-
-**Overview:**
-
-Deployed a Windows 11 virtual machine and integrated the workstation into an existing Active Directory domain.
-
-**Key Accomplishments:**
-- Installed and configured Windows 11.
-- Connected the Windows 11 VM to the lab network.
-- Configured IP addressing and DNS.
-- Verified connectivity to the domain controller.
-- Successfully joined Windows 11 to sysadminlab.local.
-- Verified domain authentication using command-line utilities.
-
-**Project Documentation:**
-
-📁 [View Project](#)  
-🎥 [Watch Lab Walkthrough](#)
-
-**Skills Demonstrated:** Domain Joining, DNS Troubleshooting, Windows Client Administration
-
----
-
 ## 🛠️ Upcoming Projects
 
 My ongoing learning roadmap includes:
