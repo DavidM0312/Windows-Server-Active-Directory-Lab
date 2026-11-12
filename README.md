@@ -61,16 +61,16 @@ All configurations are performed in an isolated training environment.
 
 ## 📂 Featured Projects
 
-### Project 01 — Windows Server 2019 Domain Controller
+### Project 01 — Windows Server 2025 Domain Controller
 
-**Technologies:** Windows Server 2019, AD DS, DNS, VirtualBox
+**Technologies:** Windows Server 2025, AD DS, DNS, VirtualBox
 
 **Overview:**
 
-Built a Windows Server 2019 virtual machine and configured it as an Active Directory domain controller for a simulated business environment.
+Built a Windows Server 2025 virtual machine and configured it as an Active Directory domain controller for a simulated business environment.
 
 **Key Accomplishments:**
-- Installed Windows Server 2019 in VirtualBox.
+- Installed Windows Server 2025 in VirtualBox.
 - Configured server networking.
 - Installed Active Directory Domain Services.
 - Promoted DC01 to a domain controller.
@@ -79,7 +79,7 @@ Built a Windows Server 2019 virtual machine and configured it as an Active Direc
 
 **Project Documentation:**
 
-📁 [View Project](#)  
+📁 [View Project](./)  
 🎥 [Watch Lab Walkthrough](#)
 
 **Skills Demonstrated:** Server Deployment, Active Directory, DNS, Infrastructure Configuration
