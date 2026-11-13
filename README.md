@@ -1,6 +1,6 @@
 # David Minor | Systems Administrator
 
-### IT Support Professional | Systems Administrator
+### Systems Administrator
 **Windows Server • Active Directory • Microsoft 365 • Networking • IT Infrastructure**
 
 Welcome to my GitHub portfolio!
