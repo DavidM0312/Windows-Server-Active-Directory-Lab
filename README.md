@@ -79,8 +79,8 @@ Built a Windows Server 2025 virtual machine and configured it as an Active Direc
 
 **Project Documentation:**
 
-📁 [View Project](./)  
-🎥 [Watch Lab Walkthrough](#)
+📁 [View Project](./)  - Coming Soon
+🎥 [Watch Lab Walkthrough](#) - Coming Soon
 
 **Skills Demonstrated:** Server Deployment, Active Directory, DNS, Infrastructure Configuration
 
@@ -103,8 +103,8 @@ Created and managed organizational units, employee accounts, and security groups
 
 **Project Documentation:**
 
-📁 [View Project](#)  
-🎥 [Watch Lab Walkthrough](#)
+📁 [View Project](#)  - Coming soon
+🎥 [Watch Lab Walkthrough](#) - Coming Soon
 
 **Skills Demonstrated:** Identity Management, Active Directory Administration, Security Groups
 
@@ -139,9 +139,9 @@ I document my projects with practical demonstrations explaining:
 
 | Project | Documentation | Video |
 |---|---|---|
-| Domain Controller Setup | [README](#) | [Watch](#) |
-| Active Directory Management | [README](#) | [Watch](#) |
-| Windows 11 Domain Join | [README](#) | [Watch](#) |
+| Domain Controller Setup | Test - [README](#) | [Watch](#) |
+| Active Directory Management |  Coming Soon  |  Coming Soon |
+| Windows 11 Domain Join | Coming Soon |  Coming Soon |
 | Group Policy Configuration | Coming Soon | Coming Soon |
 | PowerShell Administration | Coming Soon | Coming Soon |
 
