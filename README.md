@@ -78,7 +78,7 @@ I built FS01 (File Server) as a Windows Server 2025 member server in my VirtualB
 
 **Project Documentation:**
 
-📁 [Part #1 View Project](File-Server-Project)
+📁 [Part #1 View Project](File-Server-Project/Screenshots)
 📁 [Part #2 View Project](https://github.com/DavidM0312/Windows-Server-Active-Directory-Lab/blob/main/Screenshot%202026-11-18%20103538_edited.png)
 🎥 [Part #1 Watch Lab Walkthrough](https://youtu.be/N492Ys85viI)
 
