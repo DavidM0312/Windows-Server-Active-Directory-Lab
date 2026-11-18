@@ -13,7 +13,7 @@
 ![Installing Windows Server](Screenshots/Project%20%231.12.png)
 ![Installing Windows Server](Screenshots/Project%20%231.13%20Computer%20Name%20Changed.png)
 ![Installing Windows Server](Screenshots/Project%20%231.14.png))
-![Installing Windows Server](Screenshots/Project%20%231.15 Configuring FS Network Settings.png))
+![Installing Windows Server](Screenshots/Project%20%231.15Configuring%20FS%20Network%20Settings.png)
 ![Installing Windows Server](Screenshots/Project%20%231.16 Confirming if FS Network IPV4 Changed.png))
 ![Installing Windows Server](Screenshots/Project%20%231.1.png))
 ![Installing Windows Server](Screenshots/Project%20%231.1.png))
