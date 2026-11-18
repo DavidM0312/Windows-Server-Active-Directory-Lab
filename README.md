@@ -61,25 +61,25 @@ All configurations are performed in an isolated training environment.
 
 ## 📂 Featured Projects
 
-### Project 01 — Windows Server 2025 Domain Controller
+### Project 01 — Windows Server 2025 File Server and Access Control
 
-**Technologies:** Windows Server 2025, AD DS, DNS, VirtualBox
+**Technologies:** Windows Server 2025, VirtualBox, Active Directory Domain Services (AD DS), DNS, SMB, NTFS, Windows 11
 
 **Overview:**
 
-Built a Windows Server 2025 virtual machine and configured it as an Active Directory domain controller for a simulated business environment.
+I built FS01 (File Server) as a Windows Server 2025 member server in my VirtualBox lab and joined it to the `sysadminlab.local` domain. This three-part project covers preparing FS01 to host shared folders, controlling access with Active Directory security groups, and testing permissions from a domain-joined Windows 11 client.
 
 **Key Accomplishments:**
-- Installed Windows Server 2025 in VirtualBox.
-- Configured server networking.
-- Installed Active Directory Domain Services.
-- Promoted DC01 to a domain controller.
-- Configured the sysadminlab.local domain.
-- Configured and verified DNS functionality.
+- Deployed FS01 in VirtualBox and configured its network and DNS settings.
+- Joined FS01 to the `sysadminlab.local` domain and placed it in the Servers organizational unit (OU).
+- Verified connectivity and DNS resolution between FS01 and the domain controller, DC01.
+
+
 
 **Project Documentation:**
 
-📁 [View Project](https://github.com/DavidM0312/Windows-Server-Active-Directory-Lab/blob/main/Screenshot%202026-11-18%20103538_edited.png)
+📁 [Part #1 View Project]
+📁 [Part #2 View Project](https://github.com/DavidM0312/Windows-Server-Active-Directory-Lab/blob/main/Screenshot%202026-11-18%20103538_edited.png)
 🎥 [Part #1 Watch Lab Walkthrough](https://youtu.be/N492Ys85viI)
 
 **Skills Demonstrated:** Server Deployment, Active Directory, DNS, Infrastructure Configuration
