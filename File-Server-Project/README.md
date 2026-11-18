@@ -11,7 +11,7 @@
 ![Installing Windows Server](Screenshots/Project%20%231.10.png))
 ![Installing Windows Server](Screenshots/Project%20%231.11.png))
 ![Installing Windows Server](Screenshots/Project%20%231.12.png))
-![Installing Windows Server](Screenshots/Project%20%231.13.png))
+![Installing Windows Server](Screenshots/Project%20%231.13 Computer Name Chnaged.png))
 ![Installing Windows Server](Screenshots/Project%20%231.1.png))
 ![Installing Windows Server](Screenshots/Project%20%231.1.png))
 ![Installing Windows Server](Screenshots/Project%20%231.1.png))
