@@ -79,7 +79,7 @@ Built a Windows Server 2025 virtual machine and configured it as an Active Direc
 
 **Project Documentation:**
 
-📁 [View Project](./)  - Coming Soon
+📁 [View Project](https://github.com/DavidM0312/Windows-Server-Active-Directory-Lab/blob/main/Screenshot%202026-11-18%20103538_edited.png)
 🎥 [Part #1 Watch Lab Walkthrough](https://youtu.be/N492Ys85viI)
 
 **Skills Demonstrated:** Server Deployment, Active Directory, DNS, Infrastructure Configuration
