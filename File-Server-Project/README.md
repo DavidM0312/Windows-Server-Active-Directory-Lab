@@ -20,3 +20,6 @@
 ![Installing Windows Server](Screenshots/Project%20%231.19.png)
 ![Installing Windows Server](Screenshots/Project%20%231.20%20Successfully%20Joined%20FS01%20to%20DC.png)
 ![Installing Windows Server](Screenshots/Project%20%231.21.png)
+![Installing Windows Server](Screenshots/Project%20%231.22.png)
+![Installing Windows Server](Screenshots/Project%20%231.23.png)
+![Installing Windows Server](Screenshots/Project%20%231.24.png)
