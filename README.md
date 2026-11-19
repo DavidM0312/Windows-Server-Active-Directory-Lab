@@ -86,13 +86,13 @@ I built FS01 (File Server) as a Windows Server 2025 member server in my VirtualB
 
 ---
 
-### Project 02 — Active Directory User and Group Management
+### Project 02 — Creating the shared departmental folders
 
 **Technologies:** Active Directory Users and Computers, Windows Server
 
 **Overview:**
 
-Created and managed organizational units, employee accounts, and security groups in a simulated enterprise Active Directory environment.
+This lab is about creatinf the folders. sjare thek using smb configutr avtibe directory security froups and ntds oermissions add samep,e company foles and test access from winddows 11
 
 **Key Accomplishments:**
 - Created departmental Organizational Units.
