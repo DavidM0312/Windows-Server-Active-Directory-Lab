@@ -19,6 +19,3 @@
 ![Installing Windows Server](Screenshots/Project%20%231.18%20Checking%20if%20DNS%20can%20translate%20domain%20name%20into%20ip%20address.png)
 ![Installing Windows Server](Screenshots/Project%20%231.19.png)
 ![Installing Windows Server](Screenshots/Project%20%231.20%20Successfully%20Joined%20FS01%20to%20DC.png)
-![Installing Windows Server](Screenshots/Project%20%231.1.png))
-![Installing Windows Server](Screenshots/Project%20%231.1.png))
-![Installing Windows Server](Screenshots/Project%20%231.1.png))
