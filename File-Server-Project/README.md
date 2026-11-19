@@ -17,7 +17,7 @@
 ![Installing Windows Server](Screenshots/Project%20%231.16%20Confirming%20if%20FS%20Network%20IPV4%20Changed.png)
 ![Installing Windows Server](Screenshots/Project%20%231.17%20Pinging%20Domain%20Controller%20from%20File%20Server%20to%20see%20if%20they%20can%20communicat..png)
 ![Installing Windows Server](Screenshots/Project%20%231.18%20Checking%20if%20DNS%20can%20translate%20domain%20name%20into%20ip%20address.png)
-![Installing Windows Server](Screenshots/Project%20%231.19%20Changing%20File%20Server%20from%20workgroup%20to%20 connect%20to%20my%20domain%20controller.png)
+![Installing Windows Server](Screenshots/Project%20%231.19.png)
 ![Installing Windows Server](Screenshots/Project%20%231.20%20Successfully%20Joined%20FS01%20to%20DC.png)
 ![Installing Windows Server](Screenshots/Project%20%231.1.png))
 ![Installing Windows Server](Screenshots/Project%20%231.1.png))
